@@ -93,10 +93,6 @@ CArray<TData>::CArray(
 {
 	CurrentLenTData = len;
 	pTData =  new TData[len];
-	//for (i = 0; i < (CurrentLenTData) ; i++)
-	//{
-	//	pTData[i] = _array[i];
-	//}
 	memcpy(pTData,_array,len*sizeof(TData));
 	
 };
