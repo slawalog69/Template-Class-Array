@@ -1,4 +1,8 @@
 
+/**************************************************** 
+Текстовой массив  для примера работы с типом std::string
+*****************************************************/
+
 static const char chTxt[]=
 "Samuel Langhorne Clemens (Mark Twain) \
 was born on 30 November 1835 in Florida. His parents were John \
@@ -10,7 +14,7 @@ At the age of 4 his family moved to Hannibal, Missouri. \
 This town impressed him and it was later described in The \
 Adventures of Tom Sawyer and Adventures of Huckleberry Finn. \
 Missouri was known as a slave state and this theme became apparent in his writings. \
-Mark Twain�s father was a judge. In 1847 he died when Samuel \
+Mark Twain’s father was a judge. In 1847 he died when Samuel \
 was eleven. In 1848 Samuel became an assistant of a printer. \
 In three years he started working as a typesetter. His brother, \
 Orion, owned a magazine and Mark worked on different articles \
